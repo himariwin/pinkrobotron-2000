@@ -1,2 +1,1 @@
-# pinkrobotron-2000
-Robotron project to increase power
+# robotron-2000
